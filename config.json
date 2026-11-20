@@ -1,6 +1,4 @@
 {
-  "subreddits": ["Genshin_Impact_Leaks"],
-  "keywords": [],
-  "sort": "new",
-  "limit": 25
+  "channels": ["team_mew"],
+  "start_date": "2026-11-14"
 }
